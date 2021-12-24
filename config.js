@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "helo ",
-    introTitle: 'Bùi Ngọc Bích',
+    introTitle: 'Trang Tina',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: đồng ý lm ny tui nha··.',
+    mess: 'Anh  biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: đồng ý lm ny anh nha··.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.youtube.com/watch?v=qo4RhfrOZIw
+    messLink: 'https://www.facebook.com/messages/t/100072408633776
 }
